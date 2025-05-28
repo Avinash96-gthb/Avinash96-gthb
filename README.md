@@ -1,5 +1,24 @@
 # 💫 About Me:
-HI I am Avinash<br>I am an app developer working with swift and react native. I am working to create<br>amazing apps for both iOS using swift as well as cross platform apps with react <br>native. I am currently part of the iOS student developer programme and working<br>on building my own app. I am also an AWS certified practitioner and am looking to<br>collaborate on projects in both app development and ML as well
+HI I am Avinash<br>I am an app developer working with swift and react native. I am working to create<br>amazing apps for both iOS using swift as well as cross platform apps # 👋 Hi, I'm Avinash
+
+I'm an app developer passionate about building amazing experiences using **Swift** for iOS and **React Native** for cross-platform applications.
+
+## 🚀 Current Work
+- 🎓 Member of the **iOS Student Developer Program**
+- 📱 Working on my own app, **Zedit**, which is live on the App Store
+
+## 🛠️ Skills & Certifications
+- ✅ **Red Hat Certified Systems Administrator (RHCSA)**
+- ✅ **GitHub Foundations Certified**
+- 💡 Proficient in **Swift**, **React Native**, and **full-stack development**
+
+## 🤝 Let's Collaborate
+I'm open to collaborating on:
+- 📱 iOS and cross-platform mobile app projects
+- 🌐 Full-stack web development
+
+Feel free to connect or reach out for collaboration opportunities!
+
 
 
 ## 🌐 Socials:
