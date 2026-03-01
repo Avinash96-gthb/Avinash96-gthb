@@ -29,5 +29,6 @@ Feel free to connect or reach out for collaboration opportunities!
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=Avinash96-gthb&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Avinash96-gthb&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Avinash96-gthb&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+# 🛠️ Top Languages
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Avinash96-gthb&layout=default&theme=dark&hide_border=false&include_all_commits=true&count_private=true&langs_count=10)
 
